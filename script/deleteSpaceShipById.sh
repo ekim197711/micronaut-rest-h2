@@ -1,0 +1,1 @@
+curl -X DELETE "http://localhost:8080/spaceship/delete/3"
